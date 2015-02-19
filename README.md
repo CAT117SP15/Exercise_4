@@ -1,1 +1,3 @@
 # Exercise_4
+
+Use processing to manipulate an image or a series of images. Consider pixel mainupulation or taking information about an image and placing that information elsewhere. This could be changing the color or certain pixels, layering images to show a particular layer under certain contexts (think alpha channel), croping certain parts of an image and re-drawing,  bluring pixels (looking at the surrounding pixels and making certain decisions), or taking information from an image, crunching it and re-drawing it elsewhere.
